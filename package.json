@@ -1,0 +1,23 @@
+{
+  "name": "simple-beacon-manager",
+  "version": "1.0.0",
+  "description": "A simple beacon management node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolduainter/Simple-Beacon-Manager.git"
+  },
+  "author": "Anmol Dua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anmolduainter/Simple-Beacon-Manager/issues"
+  },
+  "homepage": "https://github.com/anmolduainter/Simple-Beacon-Manager#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
